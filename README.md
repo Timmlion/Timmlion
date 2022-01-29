@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Timmlion
+- 👀 I’m interested in everything IT related
+- 🌱 I’m currently learning GO
