@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Timmlion
-- 👀 I’m interested in everything IT related
-- 🌱 I’m currently learning GO
+I am a self-taught programmer driven by passion, caffeine... oh, and as it turns out, a dash of ADHD.
