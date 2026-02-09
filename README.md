@@ -47,12 +47,5 @@ I occasionally write about my experiences and ideas on my blog:
 
 ---
 
-## 🤖 CV AI Agent
-
-I’ve built an AI-powered **CV Agent** that can talk to recruiters and answer questions about my experience – it’s like chatting with my resume!
-
-👉 **[Talk to my AI CV Agent](https://aurora.ataga.ovh/webhook/cv-agent)** 👈
-
----
 
 Thanks for visiting my profile! 🚀
